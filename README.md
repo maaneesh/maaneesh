@@ -1,6 +1,6 @@
 ### Hello, I'm Manish. 👋
 
-I'm a Software Based in NYC. I love working with Javascript and think its misunderstood.
+I'm a Software Engineer based in New York City. I love working with Javascript and think its misunderstood.
 
 Here are some ideas to get you started:
 
