@@ -1,4 +1,4 @@
-### Hi there 👋
+### Hello, I'm Manish. 👋
 
 I'm a Software Based in NYC. I love working with Javascript and think its misunderstood.
 
